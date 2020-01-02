@@ -1,0 +1,28 @@
+{
+  "name": "node-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F4YC3L/node-redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F4YC3L/node-redis/issues"
+  },
+  "homepage": "https://github.com/F4YC3L/node-redis#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
